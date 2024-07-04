@@ -1,0 +1,13 @@
+tqdm
+xgboost
+imbalanced-learn
+keras-tuner
+tensorflow
+plotly
+ipykernel
+pandas>2.0.0
+seaborn
+scikit-learn
+missingno
+nbformat>=4.2.0
+
